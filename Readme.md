@@ -19,6 +19,8 @@ AppVeyor CI自动构建状态:[![Build status](https://ci.appveyor.com/api/proje
 [M270,MEGA,MPF2,MXHD](https://github.com/Magicial-Studio/PDAFT-Lyrics-Chinese-Translate/tree/MEGA-MPF2-MXHD-M270-AIO)
 
 [M270,MEGA,MPF2,MXHD With VC-1 Encoding Pack](https://github.com/Magicial-Studio/PDAFT-Lyrics-Chinese-Translate/tree/MEGA-MPF2-MXHD-M270-WMV-AIO)
+
+MPFV
 ## 我是否能加入翻译工作？
 
 为什么不可以呢？
@@ -42,6 +44,8 @@ AppVeyor CI自动构建状态:[![Build status](https://ci.appveyor.com/api/proje
 [DavidMax-dm](https://github.com/DavidMax-dm)
 
 [PD-MM_Project](https://github.com/WM86)
+
+[NonoForProject](https://github.com/NonoForProject)
 
 ## 本项目所使用的字库文件
 
